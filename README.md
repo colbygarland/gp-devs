@@ -1,4 +1,8 @@
-## Simple NextJS template.
+<img src="./public/gp-devs.png" alt="GP Devs" />
+
+## Contributing
+
+- Please PR into this repo and assign them to @colbygarland
 
 ### Libraries
 
